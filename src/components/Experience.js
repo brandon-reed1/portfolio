@@ -58,7 +58,7 @@ const Experience = () => {
               <p>ColdFusion</p>
               <p>100%</p>
             </div>
-            <div className="progress-line" data-percent="90%">
+            <div className="progress-line" data-percent="100%">
               <span />
             </div>
           </div>
