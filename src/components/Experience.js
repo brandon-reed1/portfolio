@@ -55,8 +55,8 @@ const Experience = () => {
           {/* 05 experience item start */}
           <div className="experience-item">
             <div className="experience-info">
-              <p>Flask</p>
-              <p>90%</p>
+              <p>ColdFusion</p>
+              <p>100%</p>
             </div>
             <div className="progress-line" data-percent="90%">
               <span />
